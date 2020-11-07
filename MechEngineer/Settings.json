@@ -259,6 +259,47 @@
                     ]
                 }
             },
+            {
+              "Tags" : [
+                "ProtoMech"
+            ],
+            "Template" : {
+                "Names" : [
+                    {
+                        "location" : "LeftArm",
+                        "text" : "ProtoMech 5"
+                    },
+                    {
+                        "location" : "RightArm",
+                        "text" : "ProtoMech 6"
+                    },
+                    {
+                        "location" : "LeftLeg",
+                        "text" : ""
+                    },
+                    {
+                        "location" : "RightLeg",
+                        "text" : ""
+                    },
+        {
+                        "location" : "CenterTorso",
+                        "text" : "ProtoMech 2"
+                    },
+                    {
+                        "location" : "RightTorso",
+                        "text" : "ProtoMech 4"
+                    },
+                    {
+                        "location" : "LeftTorso",
+                        "text" : "ProtoMech 3"
+                    },
+                    {
+                        "location" : "Head",
+                        "text" : "ProtoMech 1"
+                    }
+                ]
+            }
+            },
 			{
                 "Tags" : [
                     "unit_vtol"

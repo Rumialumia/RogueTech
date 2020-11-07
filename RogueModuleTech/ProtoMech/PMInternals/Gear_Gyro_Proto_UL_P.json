@@ -7,8 +7,8 @@
             "CategoryID": "Gyro"
         }],
         "TonnageLimit": {
-            "Min": 2,
-            "Max": 15
+            "Min": 10,
+			"Max": 75
         },
         "Flags": {
             "flags": [

@@ -1,0 +1,15 @@
+Tonnage = Tonnage * Squad Size
+Squad Size = 5 for Clan, 4 for IS, 6 for WoB and Comstar.
+
+Base Melee Damage is:
+    2-5 Tons = 5 * Squad Size
+    6-9 Tons = 10 * Squad Size
+    10-15 Tons = 15 * Squad Size
+
+Armor and Structure Values are:
+    Armor = TT max * 5
+    Structure = TT max * 5
+
+Slots per Proto:
+    5 + Hard mounted slots
+

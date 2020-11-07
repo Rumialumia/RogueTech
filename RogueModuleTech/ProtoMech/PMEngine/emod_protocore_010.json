@@ -1,7 +1,7 @@
 {
   "Custom": {
     "EngineCore": {
-      "Rating": "10"
+      "Rating": "30"
     },
     "BonusDescriptions": {
       "Bonuses": [
@@ -78,7 +78,7 @@
   "PrefabIdentifier": "",
   "BattleValue": 0,
   "InventorySize": 1,
-  "Tonnage": 0.25,
+  "Tonnage": 1.25,
   "AllowedLocations": "CenterTorso",
   "DisallowedLocations": "All",
   "CriticalComponent": false,

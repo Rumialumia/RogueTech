@@ -13,7 +13,7 @@
             "CategoryID": "Armor"
         }],
         "Weights": {
-            "ArmorFactor": 0.79286
+            "ArmorFactor": 0.65
         },
         "CASE": {
             "AllLocations": true
